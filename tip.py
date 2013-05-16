@@ -57,3 +57,15 @@ How many people? > 200
 How much did it cost? > 950
 You should probably tip $190.0!
 """
+
+
+
+people = int(raw_input('How many people ate?'))
+cost = int(raw_input('How much did it cost?'))
+
+
+if people <= 6:
+    print('How was the service')
+elif service = (raw_input('How was the service?'))   
+    print('terrible')
+
